@@ -1,8 +1,19 @@
 eviornment, certification, deplyments, testing
 
-studio details
+---
+details page
 
+studio details
 variant
 MID
 Vyron
 CID
+
+---
+
+game dna page
+
+---
+development
+
+---
