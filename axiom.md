@@ -88,3 +88,16 @@ game page
 settimg some maual setting for game
 
 ---
+
+Prometheus
+setting up test data
+you can set your own combination
+
+username
+gamename
+
+set your own combination
+
+--
+
+
