@@ -3,6 +3,53 @@ axiom envionment (per team)(tesing envionment)
 
 ---
 
+
+about page
+
+version
+heath state
+
+3. set balance
+   username
+   balance
+
+4. currency
+
+---
+
+user accounts page
+
+1. user accounts
+   available user accounts
+
+2. create user account
+
+player type: real player/ guest player/ etc
+
+market: DEF(no regulation)/ UK/ DE/ etc
+
+product: how your game is designed on the product/ lobby/ on which game is instlalled
+
+username:
+
+bulk accounts
+
+country
+
+currency
+
+---
+
+api page
+if any api is require for automation, then generate api key
+
+---
+
+game page
+settimg some maual setting for game
+
+---
+
 launch game page
 
 Game generate link
@@ -43,51 +90,6 @@ password
 
 ---
 
-user accounts page
-
-1. user accounts
-   available user accounts
-
-2. create user account
-
-player type: real player/ guest player/ etc
-
-market: DEF(no regulation)/ UK/ DE/ etc
-
-product: how your game is designed on the product/ lobby/ on which game is instlalled
-
-username:
-
-bulk accounts
-
-country
-
-currency
-
----
-
-about page
-
-version
-heath state
-
-3. set balance
-   username
-   balance
-
-4. currency
-
----
-
-api page
-if any api is require for automation, then generate api key
-
----
-
-game page
-settimg some maual setting for game
-
----
 
 Prometheus
 setting up test data

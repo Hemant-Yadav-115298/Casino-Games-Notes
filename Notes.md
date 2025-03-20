@@ -16,13 +16,19 @@ Paytable
 ---
 
 Base Game Page (Landing Page)
+
 Console (Buttons together)
+
 Infobar (Infomation about current game: Bet, Win, Total Win, Total Bet)
+
 Reel (Vertical)
+
 Paying line
 Previously lines were choosable, but now they are fixed (static)
+
 Reels spins
 Spin in progress
+
 Bet depends on the number of lines
 bet lost
 bet won
