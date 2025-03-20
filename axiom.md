@@ -90,7 +90,6 @@ password
 
 ---
 
-
 Prometheus
 setting up test data
 you can set your own combination
@@ -98,7 +97,17 @@ you can set your own combination
 username
 gamename
 
-set your own combination
+reelset
+
+set your own combination manully
+
+or with xml code
+
+Test data:
+1. How to edit the existing test data
+   Axiom > manager > file manager > navigate to test data folder > 
+
+
 
 --
 
