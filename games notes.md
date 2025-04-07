@@ -53,3 +53,8 @@ Symbol combinations
 ---
 
 Total bet: coin size * coins per line * lines 
+
+---
+roulette
+
+![alt text]({3D25434B-F5EC-439E-A11D-A913251E2373}.png)

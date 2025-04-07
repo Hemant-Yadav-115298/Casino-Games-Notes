@@ -4,21 +4,21 @@ axiom envionment (per team)(tesing envionment)
 ---
 
 about page
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](img/image-7.png)
+![alt text](img/image-8.png)
 version
 heath state
 
 ---
 
 user accounts page
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 1. user accounts
    available user accounts
 
 2. create user account
-   ![alt text](image-6.png)
+   ![alt text](img/image-6.png)
    player type: real player/ guest player/ etc
 
 market: DEF(no regulation)/ UK/ DE/ etc
@@ -36,7 +36,7 @@ currency
 3. set balance
    username
    balance
-   ![alt text](image-9.png)
+   ![alt text](img/image-9.png)
 4. currency
 
 ---
@@ -48,12 +48,12 @@ if any api is require for automation, then generate api key
 
 game page
 settimg some maual setting for game
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 ---
 
 launch game page
-![alt text](image.png)
+![alt text](img/image.png)
 
 Game generate link
 
@@ -63,14 +63,14 @@ framework version (letest preferred unless specified)
 market
 regulated markets / rules
 DotCom market (unregulated): no regulation
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
 
 game
 list of games installed on envionment (both desktop and mobile)
 MID: module id : unique for each game (same for desktop and mobile)
 CID: client id : for desktop: 503xx and mobile: 403xx
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 game clonning:
 if game is cloned: MID remains the same but CID changes (403xx+1)
@@ -99,7 +99,7 @@ password
 
 manager
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
 ---
 
